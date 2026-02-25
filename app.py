@@ -1,5 +1,5 @@
 ### Streamlit app.py code. Copy and pase into a notepad file and save in the project folder.
-```python
+
 # app.py
 import streamlit as st
 import pandas as pd
